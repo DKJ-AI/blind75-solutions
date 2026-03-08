@@ -8,9 +8,9 @@
 
 | Metric | Count |
 |--------|-------|
-| 🗓️ Days Active | 0 |
-| ✅ Problems Solved | 0 |
-| 📅 Started | <!-- Add start date --> |
+| 🗓️ Days Active | 1 |
+| ✅ Problems Solved | 1 |
+| 📅 Started | 07-03-2026 |
 
 ---
 
@@ -18,10 +18,10 @@
 
 | Difficulty | Solved | Target |
 |------------|--------|--------|
-| 🟢 Easy     | 0      | 50     |
+| 🟢 Easy     | 1      | 50     |
 | 🟡 Medium   | 0      | 30     |
 | 🔴 Hard     | 0      | 10     |
-| **Total**  | **0**  | **90** |
+| **Total**  | **1**  | **90** |
 
 ---
 
@@ -29,7 +29,7 @@
 
 | Topic | Status | Problems Solved |
 |-------|--------|-----------------|
-| Arrays | 🔄 In Progress | 0 |
+| Arrays | 🔄 In Progress | 1 |
 | Strings | ⏳ Not Started | 0 |
 | Linked Lists | ⏳ Not Started | 0 |
 | Stacks & Queues | ⏳ Not Started | 0 |
@@ -38,7 +38,7 @@
 | Recursion & Backtracking | ⏳ Not Started | 0 |
 | Dynamic Programming | ⏳ Not Started | 0 |
 | Sorting & Searching | ⏳ Not Started | 0 |
-| Hashing | ⏳ Not Started | 0 |
+| Hashing | ⏳ Not Started | 1 |
 | Two Pointers | ⏳ Not Started | 0 |
 | Sliding Window | ⏳ Not Started | 0 |
 
